@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="banner.svg" alt="Banner" />
+  <img src="banner.svg?v=2" alt="Banner" />
 </p>
 
 ---
